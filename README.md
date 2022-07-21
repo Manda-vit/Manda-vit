@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manda-vit
-- 👀 I’m interested in UX/UI desing
+- 👀 I’m interested in UX/UI desing and Front-end Development
 - 🌱 I’m currently learning front end
 
 
